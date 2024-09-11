@@ -17,4 +17,5 @@
 
 ```bash
 python hashbuster.py <hash> <algorithm> <wordlist>
+```
  
